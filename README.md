@@ -4,6 +4,16 @@ Um espaço digital minimalista e seguro para a prática da **Escrita Expressiva*
 
 ### 🌐 Acesse a aplicação ao vivo: [Link do Projeto](https://letitburn.netlify.app/)
 
+---
+
+## 📌 Sobre o Projeto
+
+O **Catarse** é uma aplicação web *client-side* (PWA) que funciona como um "bloco de notas terapêutico". Ele oferece uma interface imersiva, livre de distrações e com áudio ambiente (chuva e sons reais de máquina de escrever) onde o usuário pode externalizar pensamentos intrusivos, estresse ou angústias emocionais. 
+
+O grande diferencial do projeto não é salvar informações, mas sim **destruí-las**. Ao finalizar a escrita, o usuário aciona a queima da folha, que gera uma animação imersiva de fogo, consumindo o texto na tela ao som de chamas e, simultaneamente, apagando o dado de forma permanente da memória do navegador.
+
+---
+
 ### 🌑 Tema: O Vazio
 <div align="center">
   <img src="tema-vazio.gif" alt="Tema O Vazio" width="80%" />
@@ -17,12 +27,6 @@ Um espaço digital minimalista e seguro para a prática da **Escrita Expressiva*
 </div>
 
 ---
-
-## 📌 Sobre o Projeto
-
-O **Catarse** é uma aplicação web *client-side* (PWA) que funciona como um "bloco de notas terapêutico". Ele oferece uma interface imersiva, livre de distrações e com áudio ambiente (chuva e sons reais de máquina de escrever) onde o usuário pode externalizar pensamentos intrusivos, estresse ou angústias emocionais. 
-
-O grande diferencial do projeto não é salvar informações, mas sim **destruí-las**. Ao finalizar a escrita, o usuário aciona a queima da folha, que gera uma animação imersiva de fogo, consumindo o texto na tela ao som de chamas e, simultaneamente, apagando o dado de forma permanente da memória do navegador.
 
 ## 🧠 A Base Psicanalítica
 
@@ -53,3 +57,4 @@ A aplicação foi construída com foco absoluto em Imersão e Alta Performance n
 ---
 Desenvolvido por **Deivesson (Deivcode)**. 
 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/deivesson-ferreira) | [GitHub](https://github.com/deivcode)
+
