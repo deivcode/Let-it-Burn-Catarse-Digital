@@ -4,9 +4,16 @@ Um espaço digital minimalista e seguro para a prática da **Escrita Expressiva*
 
 ### 🌐 Acesse a aplicação ao vivo: [Link do Projeto](https://letitburn.netlify.app/)
 
+### 🌑 Tema: O Vazio
 <div align="center">
-  <img src="tema-vazio.gif" alt="Tema O Vazio" width="45%" />
-  <img src="tema-chuva.gif" alt="Tema Quarto Chuvoso" width="45%" />
+  <img src="tema-vazio.gif" alt="Tema O Vazio" width="80%" />
+</div>
+
+<br>
+
+### 🌧️ Tema: Quarto Chuvoso
+<div align="center">
+  <img src="tema-chuva.gif" alt="Tema Quarto Chuvoso" width="80%" />
 </div>
 
 ---
